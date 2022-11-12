@@ -85,7 +85,7 @@ var textArr = [
         time:4000
     },
     {
-        text:"这使得我们",
+        text:"使得我们",
         time:4000
     },
     {
